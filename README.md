@@ -5,8 +5,10 @@ REST API client for Cosmos SDK Bandprotocol module.
 ## Install
 
 ```shell
-npm install @cosmos-client/bandprotocol
+npm install @cosmos-client/core @cosmos-client/bandprotocol
 ```
+
+To see the usage of `@cosmos-client/core`, please see this [link](https://github.com/cosmos-client/cosmos-client-ts);
 
 ## Examples
 
